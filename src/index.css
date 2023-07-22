@@ -41,6 +41,9 @@
 
 }
 
+.btn:hover {
+    background-color: rgba(252, 129, 93, 255);
+}
 .Maincontant {
     display: flex;
     padding-top: 100px;
@@ -82,7 +85,7 @@
     font-weight: bold;
 }
 
-#button-2:hover {
+.MainButton1:hover {
     background-color: rgba(252, 129, 93, 255);
 }
 
